@@ -10,6 +10,4 @@ This task is to use VBA scripting to analyze generated stock market data
 ![Alt text](<Screenshot 2023-10-25 093635-1.png>)
 
 * 2020
-
-
-
+![Alt text](<Screenshot 2023-10-25 093656-1.png>)
