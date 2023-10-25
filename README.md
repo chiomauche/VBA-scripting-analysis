@@ -7,6 +7,7 @@ This task is to use VBA scripting to analyze generated stock market data
 ![Alt text](<Screenshot 2023-10-25 093548.png>)
 
 * 2019
+![Alt text](<Screenshot 2023-10-25 093635-1.png>)
 
 * 2020
 
